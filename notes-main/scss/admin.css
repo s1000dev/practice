@@ -1,0 +1,16 @@
+.apps {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 1000px;
+  margin: 0 auto;
+  overflow-y: scroll;
+  max-height: 200px;
+  gap: 25px;
+}
+
+.application {
+  padding: 30px;
+  margin: 0;
+  background-color: grey;
+}/*# sourceMappingURL=admin.css.map */
